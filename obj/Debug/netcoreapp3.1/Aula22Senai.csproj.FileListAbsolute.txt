@@ -1,0 +1,13 @@
+C:\Users\maheu\Documents\Aula22Senai\bin\Debug\netcoreapp3.1\Aula22Senai.exe
+C:\Users\maheu\Documents\Aula22Senai\bin\Debug\netcoreapp3.1\Aula22Senai.deps.json
+C:\Users\maheu\Documents\Aula22Senai\bin\Debug\netcoreapp3.1\Aula22Senai.runtimeconfig.json
+C:\Users\maheu\Documents\Aula22Senai\bin\Debug\netcoreapp3.1\Aula22Senai.runtimeconfig.dev.json
+C:\Users\maheu\Documents\Aula22Senai\bin\Debug\netcoreapp3.1\Aula22Senai.dll
+C:\Users\maheu\Documents\Aula22Senai\bin\Debug\netcoreapp3.1\Aula22Senai.pdb
+C:\Users\maheu\Documents\Aula22Senai\obj\Debug\netcoreapp3.1\Aula22Senai.csprojAssemblyReference.cache
+C:\Users\maheu\Documents\Aula22Senai\obj\Debug\netcoreapp3.1\Aula22Senai.csproj.CoreCompileInputs.cache
+C:\Users\maheu\Documents\Aula22Senai\obj\Debug\netcoreapp3.1\Aula22Senai.AssemblyInfoInputs.cache
+C:\Users\maheu\Documents\Aula22Senai\obj\Debug\netcoreapp3.1\Aula22Senai.AssemblyInfo.cs
+C:\Users\maheu\Documents\Aula22Senai\obj\Debug\netcoreapp3.1\Aula22Senai.dll
+C:\Users\maheu\Documents\Aula22Senai\obj\Debug\netcoreapp3.1\Aula22Senai.pdb
+C:\Users\maheu\Documents\Aula22Senai\obj\Debug\netcoreapp3.1\Aula22Senai.genruntimeconfig.cache
